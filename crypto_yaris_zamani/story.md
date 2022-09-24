@@ -1,0 +1,3 @@
+TR: Singapur Grand Prix öncesi,Max Verstappen ve Sergio Pérez konuşmalarından belli bir kesit var.Verstappen konuşmasından bazı dosyaları bizim için çözüp konuşmayı tamamlayabilir misin? Pérez:"The programming language takes its name from Dante's Inferno Da from the eighth floor of hell.Also,Dan Brown is mentioned in a certain part of his book set in Istanbul.
+
+EN: There is a certain section of Max Verstappen and Sergio Pérez speeches before the Singapore Grand Prix. can you solve some files for us and finish the conversation? Pérez:"The programming language takes its name from Dante's Inferno Da from the eighth floor of hell.Also,Dan Brown is mentioned in a certain part of his book set in Istanbul.
