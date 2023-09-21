@@ -35,4 +35,8 @@ Duration                        : 0:01:15 (approx)
   ![Spectogram](./Osint_Ekmek_mp3_spectrogram.png "Spectogram")
 * The text says : `58C EU 33874 81823`
 * Long lat conversion result is `-77.63618101, 166.41730565`
-* Could not find a flag yet in there..but it must be somewhere there
+* Open coordinates in Maps found some photos but couldn't find anything related with bread
+* So I decided to open the building in street view and viola! It is there `Colman's Flour`
+* Try the `STMCTF{Colman's Flour}`
+* The photo
+* ![Flour](./the_building_colmans_flour.png "Flour")
