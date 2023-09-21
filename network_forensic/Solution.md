@@ -11,7 +11,7 @@
 * Right clicked on an FTP package, Follow->TCP Stream
 * Saw `220 Oops ! Something went wrong! Error Message: TVktVjNyWV81M0N1UjNfRnRQX0YxbDMtUDRTcw`, suspected that `TVktVjNyWV81M0N1UjNfRnRQX0YxbDMtUDRTcw` message is base64 encoded
 * decoded with echo `'TVktVjNyWV81M0N1UjNfRnRQX0YxbDMtUDRTcw' |base64 --decode` and resulted `MY-V3rY_53CuR3_FtP_F1l3-P4S` but it has a missing char.
-* So tried `'TVktVjNyWV81M0N1UjNfRnRQX0YxbDMtUDRTcw==' |base64 --decode` and voala! `MY-V3rY_53CuR3_FtP_F1l3-P4Ss` is exposed
+* So tried `'TVktVjNyWV81M0N1UjNfRnRQX0YxbDMtUDRTcw==' |base64 --decode` and viola! `MY-V3rY_53CuR3_FtP_F1l3-P4Ss` is exposed
 * Guess we need more data went through FTP and filter by `ftp-data` on Wireshark. Saw one file transaction. 
 * Followed TCP stream and set to Show and Save data as `Raw`. Saved as -> `found_ftp_data.pdf`
 * Then open pdf file, using previously found password : `MY-V3rY_53CuR3_FtP_F1l3-P4Ss`
